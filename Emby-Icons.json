@@ -1,0 +1,10 @@
+{
+  "name": "EmbyPro 图标库",
+  "description": "EmbyPro 原创 Logo 图标",
+  "icons": [
+    {
+      "name": "EmbyPro 蓝色播放徽章",
+      "url": "https://raw.githubusercontent.com/heshaohui438/icon12366/main/EmbyPro%20%E8%93%9D%E8%89%B2%E6%92%AD%E6%94%BE%E5%BE%BD%E7%AB%A0.png"
+    }
+  ]
+}
